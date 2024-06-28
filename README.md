@@ -1,4 +1,4 @@
-# Server Down
+# Server is Down
 
 # To download simply press Code > Download Zip
 # 
