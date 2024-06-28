@@ -1,3 +1,3 @@
-# pb_q3_2024
-pb_modpack_repo
-servers closed
+# To download simply press Code > Download Zip
+![STEP1]([https://github.com/galoom424/random-images/blob/main/download-1.png?raw=true] "Step 1")
+![STEP1]([https://github.com/galoom424/random-images/blob/main/download-2.png?raw=true] "Step 2")
